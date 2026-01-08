@@ -20,9 +20,6 @@ This project analyzes Indian Premier League (IPL) data from 2008 to 2025 using P
 - `IPL_Analysis.pbix` – Power BI dashboard
 - Dataset files (CSV)
 
-## 📸 Dashboard Preview
-(Add screenshots here)
-
 ## 🚀 Author
 **Bhavesh Kamble**  
 Aspiring Data Analyst
